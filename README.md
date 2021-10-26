@@ -1,5 +1,5 @@
 # Compiling A LaTeX Document To PDF
-These instructions will assist in creating a PDF document from a `.tex` LaTeX source code file. On the command line.  
+These instructions will assist in creating a PDF document from a `.tex` LaTeX source code file using the command line interface. Alternative graphical LaTeX compilers are available, and are not covered in this tutorial.
 
 ## Preliminaries
 **This document assumes some basic proficiency in using the computers command line interface.** It also assumes a previous (and proper) local installation of a LaTeX distribution. Suggested LaTeX distributions are [TeXLive](http://www.tug.org/texlive/), [MikTeX](https://miktex.org/), and [MacTeX](http://www.tug.org/mactex/). For other distributions of LaTeX, these instructions may need to be slightly modified: namely the name of the suggested LaTeX PDF-Generating Tool.  
