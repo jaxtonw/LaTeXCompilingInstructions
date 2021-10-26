@@ -1,4 +1,4 @@
-# Compiling A LaTeX Document
+# Compiling A LaTeX Document Locally
 These instructions will assist in creating a PDF document from a `.tex` LaTeX source code file. 
 
 ## Preliminaries
