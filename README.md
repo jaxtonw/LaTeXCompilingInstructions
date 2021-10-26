@@ -10,14 +10,14 @@ When you installed your LaTeX distribution, it likely came with numerous tools t
 In your command prompt, you can verify if these tools exist on your system by running `pdflatex --help` and `xelatex --help`. 
 
 ```bash
-$ pdflatex
+$ pdflatex --help
 Usage: pdftex [OPTION]... [TEXNAME[.tex]] [COMMANDS]
    or: pdftex [OPTION]... \FIRST-LINE
    or: pdftex [OPTION]... &FMT ARGS
   Run pdfTeX on TEXNAME, usually creating TEXNAME.pdf.
   Any remaining COMMANDS are processed as pdfTeX input, after TEXNAME is read.
 ...
-$ xelatex
+$ xelatex --help
 Usage: xetex [OPTION]... [TEXNAME[.tex]] [COMMANDS]
    or: xetex [OPTION]... \FIRST-LINE
    or: xetex [OPTION]... &FMT ARGS
