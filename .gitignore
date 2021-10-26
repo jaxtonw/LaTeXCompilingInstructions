@@ -1,0 +1,4 @@
+*.log
+*.aux
+compile.sh
+header.tex
