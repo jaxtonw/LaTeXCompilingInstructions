@@ -50,15 +50,7 @@ This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/Arch Linux) (prel
  restricted \write18 enabled.
 entering extended mode
 (./main.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18>
-(/usr/share/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-(/usr/share/texmf-dist/tex/latex/base/size12.clo))
-(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-(|extractbb --version)) (./main.aux)
-(/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd) [1] (./main.aux) )
-Output written on main.pdf (1 page).
+...
 Transcript written on main.log.
 ```
 
@@ -81,15 +73,7 @@ This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/Arch Linux) (prel
  restricted \write18 enabled.
 entering extended mode
 (./main.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18>
-(/usr/share/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-(/usr/share/texmf-dist/tex/latex/base/size12.clo))
-(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-(|extractbb --version)) (./main.aux)
-(/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd) [1] (./main.aux) )
-Output written on main.pdf (1 page).
+...
 Transcript written on main.log.
 ```
 
